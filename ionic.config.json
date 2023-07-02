@@ -1,0 +1,7 @@
+{
+  "name": "nithira",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
